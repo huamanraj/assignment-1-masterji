@@ -1,8 +1,22 @@
-# React + Vite
+# MasterJi.co Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the MasterJi assignment repository! This project involves implementing three tasks based on provided Figma designs using React. The tasks are:
 
-Currently, two official plugins are available:
+1. **OTP Form**
+2. **Drag and Drop Course Cards**
+3. **Data Table**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Structure
+
+The project is structured as follows:
+
+- **/otp-form**: OTP Form implementation
+- **/course-list**: Drag and Drop Course Cards implementation
+- **/batches**: Data Table implementation
+- **/**: Redirects to `/otp-form`
+
+## Live Demo
+
+You can view the hosted website at [https://assignment-1-masterji.vercel.app/](https://assignment-1-masterji.vercel.app/).
+
+
