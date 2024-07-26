@@ -30,5 +30,9 @@
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.6",
     "vite": "^5.3.4"
-  }
+  },
+  "description": "Welcome to the MasterJi assignment repository! This project involves implementing three tasks based on provided Figma designs using React. The tasks are:",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
